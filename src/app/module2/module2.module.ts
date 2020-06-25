@@ -10,6 +10,6 @@ import { Component4Component } from './component4/component4.component';
   exports: [Component3Component, Component4Component],
   imports: [
     CommonModule
-  ]
+  ],
 })
 export class Module2Module { }
